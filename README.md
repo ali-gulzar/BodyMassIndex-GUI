@@ -2,4 +2,4 @@
 A Graphical User Interface Project done using C++
 
 [//]: # (Adding a demo image for the project)
-![Alt text](pics/demo_1.png?raw=true "Title")
+![Demo Picture](pics/demo_1.png)
